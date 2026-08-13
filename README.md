@@ -116,33 +116,23 @@ class Karthikeya:
 - Jupyter Notebook
   ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korakoppulakarthikeya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korakoppulakarthikeya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=korakoppulakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korakoppulakarthikeya&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korakoppulakarthikeya&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=korakoppulakarthikeya&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korakoppulakarthikeya&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korakoppulakarthikeya&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=korakoppulakarthikeya&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
