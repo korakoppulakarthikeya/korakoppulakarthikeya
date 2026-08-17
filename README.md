@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthikeya Korakoppula
 
 <h3 align="center">
-  🐍 Python Developer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🤖 AI/ML Enthusiast
+  🐍 Python Developer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp;
 </h3>
 
 <p align="center">
@@ -122,14 +122,13 @@ class Karthikeya:
 </p>
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korakoppulakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korakoppulakarthikeya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=korakoppulakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korakoppulakarthikeya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -301,7 +300,7 @@ AI / ML
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/karthikeya-korakoppula-932778333/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
