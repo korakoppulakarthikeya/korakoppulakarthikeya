@@ -218,7 +218,9 @@ React-based interactive guessing game.
 
 <td width="50%">
 
-### 🛒 E-Commerce Website **Full Stack E-Commerce Application** - 🛍️ Product browsing - 🔎 Product search - 🛒 Shopping cart - 👤 User authentication - 💳 Order management - 📦 Product management **Tech:** React.js • Python • Flask • MySQL • REST API
+### 🛒 E-Commerce Website **Full Stack E-Commerce Application**
+- 🛍️ Product browsing - 🔎 Product search - 🛒 Shopping cart - 👤 User authentication - 💳 Order management - 📦 Product management
+-  **Tech:** React.js • Python • Flask • MySQL • REST API
 <a href="https://github.com/korakoppulakarthikeya/ecommerce.git">
   🔗 View Repository
 </a>
