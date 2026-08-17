@@ -122,14 +122,6 @@ class Karthikeya:
 </p>
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korakoppulakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korakoppulakarthikeya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" />
-</p>
----
 
 # 🔥 GitHub Streak
 
@@ -182,6 +174,9 @@ class Karthikeya:
 * 🔐 OTP authentication
 
 **Tech:** Python • Flask • ML • React • MySQL
+<a href="https://github.com/korakoppulakarthikeya/precesion-agriculture-and-predictive-analytics.git">
+  🔗 View Repository
+</a>
 
 </td>
 
@@ -197,6 +192,9 @@ class Karthikeya:
 * 🔊 Voice signal processing
 
 **Tech:** Python • Librosa • NumPy • Scikit-learn
+<a href="https://github.com/korakoppulakarthikeya/streevox.git">
+🔗 View Repository
+</a>
 
 </td>
 
@@ -220,12 +218,10 @@ React-based interactive guessing game.
 
 <td width="50%">
 
-### 🏠 House Price Prediction
-
-Machine learning project for predicting house prices.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn
-
+### 🛒 E-Commerce Website **Full Stack E-Commerce Application** - 🛍️ Product browsing - 🔎 Product search - 🛒 Shopping cart - 👤 User authentication - 💳 Order management - 📦 Product management **Tech:** React.js • Python • Flask • MySQL • REST API
+<a href="https://github.com/korakoppulakarthikeya/ecommerce.git">
+  🔗 View Repository
+</a>
 </td>
 
 </tr>
